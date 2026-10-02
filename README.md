@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Sebastian Rivera! 👋
 
-<!--
-**ITB2627-Rivera/ITB2627-Rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **ASIX Student** | System Administration, Networking & Cloud Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Facts about me
+
+- 📚 Currently studying **ASIX** (Network computer system administration) in Barcelona.
+- 🎯 **Goal:** Learn about networking, cybersecurity, scripting, and cloud administration to build a strong knowledge base
+
+---
+
+## 📊 GitHub Activity
+
+![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITB2627-Rivera&show_icons=true&theme=tokyonight)
+
+<img width="220" height="140" alt="cat" src="https://github.com/user-attachments/assets/c277d449-c024-4b28-850d-ff6c23e534d2" />
